@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currenty 4th grade computer science student at Ankara University. I have deep interest for game developing. I have game projects and I wil make more.<br>Also I have other types of project such as AI, AR/VR, web development (full-stack). I have also interest these areas bur my main interest is game industry.<br>I like playing video games, Watching movies and series, reading book, good foods and drinks, nature, swimming
+I'm currenty 4th grade computer science student at Ankara University.<br>I have deep interest for game developing. I have game projects and I wil make more.<br>Also I have projects in diffirent areas too. Such as AI, AR/VR, web development.<br>I like playing video games, watching movies and series, reading books, good foods and drinks, nature, swimming.
 
 
 ## 🌐 Socials:
