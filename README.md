@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currenty 4th grade computer science student at Ankara University. I have deep interest for game developing. I have game projects and I wil make more.<br>Also I have other types of project such as AI, AR/VR, web development (full-stack). I have also interest these areas bur my main interest is game industry.<br>Programing Languages: Python, C, C#, C++, Java, JavaScript<br>Frameworks & Libraries: Spring Boot, React, React Native (Expo),<br>OpenCV, NumPy, Pandas, Prophet, PyTorch, TensorFlow, MRTK<br>AI / ML Technologies: YOLO, ML-Agents<br>Tools & Technologies: Unity, Unreal Engine 5, Git<br>Databases: MySQL, PostgreSQL<br>Maybe using a scale like 1 to 5 more suitable for decading which level at I am.<br>I like playing video games, Watching movies and series, reading book, good foods and drinks, nature, swimming
+I'm currenty 4th grade computer science student at Ankara University. I have deep interest for game developing. I have game projects and I wil make more.<br>Also I have other types of project such as AI, AR/VR, web development (full-stack). I have also interest these areas bur my main interest is game industry.<br>I like playing video games, Watching movies and series, reading book, good foods and drinks, nature, swimming
 
 
 ## 🌐 Socials:
