@@ -44,10 +44,6 @@ Outside of tech, I enjoy playing video games, watching movies and TV series, rea
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PatrnPenguen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrnPenguen&layout=compact&theme=tokyonight&hide_border=true)
-
 ![](https://streak-stats.demolab.com?user=PatrnPenguen&theme=tokyonight&hide_border=true)
 
 ## Quote
